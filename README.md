@@ -4,5 +4,4 @@ An application designed for residents of NYC to inspect properties for housing v
 
 
 ### GIFs
-
 ![Alt Text](https://imgflip.com/gif/25s3kk)
